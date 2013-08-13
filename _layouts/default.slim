@@ -1,0 +1,13 @@
+doctype
+html
+  head
+    | {% include head.slim %}
+  body
+    | {% include header.slim %}
+    /! MAIN CONTENT
+    #main_content_wrap.outer
+      section#main_content.inner
+        h1 {  page.title }
+        | {{ content }}
+    | {% include footer.slim %}
+    | {% include counters.slim %}

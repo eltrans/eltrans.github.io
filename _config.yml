@@ -1,0 +1,21 @@
+markdown: kramdown
+permalink: pretty
+pygments: true
+
+timezone: UTC
+
+kramdown:
+  auto_ids: false
+
+exclude:
+  - config
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - Rakefile
+  - README.md
+  - redirect.conf_
+  - vendor
+
+url: http://eltrans.github.io

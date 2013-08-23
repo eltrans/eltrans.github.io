@@ -1,8 +1,26 @@
 ---
-layout: default
-title: Главная страница
-
-
+layout: nil
 ---
+
+<html>
+  <head>
+    <script type="text/javascript">
+      var languages = {
+        "en":    "en"
+      };
+
+      var code = window.navigator.language || "ru";
+      code = code.substr(0,2);
+
+      var language = languages[code];
+      if (!language) { language = "ru"; }
+
+      document.location = "/" + language;
+    </script>
+    <noscript>
+      <meta http-equiv="refresh" content="0;/ru/" />
+    </noscript>
+  </head>
+</html>
 
 

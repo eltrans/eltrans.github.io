@@ -19,3 +19,41 @@ exclude:
   - vendor
 
 url: http://eltrans.github.io
+
+locales:
+  sitelinks:
+    en:
+      - text: About us
+        url: /en/about
+      - text: Certificates
+        url: /en/certificates
+      - text: Contacts
+        url: /en/contact
+      - text: Customers
+        url: /en/customers
+      - text: News
+        url: /en/news
+      - text: Services
+        url: /en/services
+      - text: Maintenance
+        url: /en/maintenance
+      - text: Leaders
+        url: /en/stuff
+    ru:
+      - text: О нас
+        url: /ru/about
+      - text: Сертификаты
+        url: /ru/certificates
+      - text: Контакты
+        url: /ru/contact
+      - text: Клиенты
+        url: /ru/customers
+      - text: Новости
+        url: /ru/news
+      - text: Услуги
+        url: /ru/services
+      - text: Обслуживание
+        url: /ru/maintenance
+      - text: Руководство
+        url: /ru/stuff
+

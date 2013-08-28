@@ -1,8 +1,19 @@
+<div class="navbar-header">
+  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+  </button>
+            <a class="navbar-brand" href="#">Eltrans Ltd.</a>
+</div>
+<div class="collapse navbar-collapse">
+  <ul class="nav navbar-nav">
 {% if site.locales.sitelinks[page.lang] %}
   {% assign sitelinks = site.locales.sitelinks[page.lang] %}
 {% else %}
   {% assign sitelinks = site.locales.sitelinks['en'] %}
 {% endif %}
 {% for link in sitelinks %}
-  <a href="{{ link.url }}/">{{ link.text }}</a>{% unless forloop.last %}<span class="separator"> | </span>{% endunless %}
+  <li><a href="{{ link.url }}/">{{ link.text }}</a></li>
 {% endfor %}
+</div>

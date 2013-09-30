@@ -56,4 +56,29 @@ locales:
         url: /ru/maintenance
       - text: Руководство
         url: /ru/stuff
+  news:
+    en:
+      other_news: Other News
+      more_news: More News...
+      continue: Continue Reading...
+      back_to_year: "Back to %Y Archives"
+      recent_news: Recent News
+      yearly_archive_title: "%Y Archives"
+      monthly_archive_title: "%B %Y Archives"
+      yearly_archives: Archives by Year
+      monthly_archives: Archives by Month
+      yearly_archive_link: "%Y Archives"
+      monthly_archive_link: "%B %Y"
+    ru:
+      other_news: Другие Новости
+      more_news: Еще Новости...
+      continue: Продолжить чтение...
+      back_to_year: "Вернуться к архиву %Y года"
+      recent_news: Последние Новости
+      yearly_archive_title: "Архив %Y года"
+      monthly_archive_title: "%B %Y архив"
+      yearly_archives: Архивы по годам
+      monthly_archives: Архивы по месяцам
+      yearly_archive_link: "Архив %Y"
+      monthly_archive_link: "%B %Y"
 

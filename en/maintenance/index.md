@@ -3,14 +3,12 @@ title: Servicing
 layout: default
 lang: en
 ---
-[![](/images/logo_furuno.gif)](http://www.furuno.co.jp/english/)
 
 Eltrans, Ltd. is
 
-*   authorize and appoint service agents
-     of the company  [FURUNO DANMARK AS](http://www.furuno.co.jp/english/)[![](/images/logo_transas.gif)](http://www.transas.ru)
+*    authorize and appoint service agents of the company [FURUNO DANMARK AS](http://www.furuno.co.jp/english/) <a href="http://www.furuno.co.jp/english/" target="_blank"><img src="/images/logo_furuno.gif" width="188" height="37" align="right"></a>
 
-*   service center of  [CJSC «TRANSAS»](http://www.transas.ru)
+*    service center of [CJSC «TRANSAS»](http://www.transas.ru) <a href="http://transas.ru/" target="_blank"><img src="/images/logo_transas.gif" width="146" height="36" align="rigth"></a>
 
 We also execute:
 

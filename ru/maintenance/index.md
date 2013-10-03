@@ -3,15 +3,12 @@ title: Сервис
 layout: default
 lang: ru
 ---
-[![](/images/logo_furuno.gif)](http://www.furuno.co.jp/english/)
 
 ООО «Элтранс» является
 
-*   авторизованным сервисным агентом
+*   авторизованным сервисным агентом компании  [FURUNO DANMARK AS](http://www.furuno.co.jp/english/) <a href="http://www.furuno.co.jp/english/" target="_blank"><img src="/images/logo_furuno.gif" width="188" height="37" align="right"></a>
 
-     компании  [FURUNO DANMARK AS](http://www.furuno.co.jp/english/)[![](/images/logo_transas.gif)](http://www.transas.ru)
-
-*   сервисным центром [ЗАО «ТРАНЗАС»](http://www.transas.ru)
+*   сервисным центром [ЗАО «ТРАНЗАС»](http://www.transas.ru) <a href="http://transas.ru/" target="_blank"><img src="/images/logo_transas.gif" width="146" height="36" align="rigth"></a>
 
 Мы также осуществляем:
 

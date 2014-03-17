@@ -14,6 +14,10 @@
   {% assign sitelinks = site.locales.sitelinks['en'] %}
 {% endif %}
 {% for link in sitelinks %}
-  <li><a href="{{ link.url }}/">{{ link.text }}</a></li>
+  {% if page.url == link.url %}
+      <li class="active"><a href="{{ link.url }}" class="active">{{ link.text }}</a></li>
+    {% else %}
+      <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+    {% endif %}
 {% endfor %}
 </div>

@@ -24,38 +24,38 @@ locales:
   sitelinks:
     en:
       - text: About us
-        url: /en/about
+        url: /en/about/
       - text: Certificates
-        url: /en/certificates
+        url: /en/certificates/
       - text: Contacts
-        url: /en/contact
+        url: /en/contact/
       - text: Customers
-        url: /en/customers
+        url: /en/customers/
       - text: News
-        url: /en/news
+        url: /en/news/
       - text: Services
-        url: /en/services
+        url: /en/services/
       - text: Maintenance
-        url: /en/maintenance
+        url: /en/maintenance/
       - text: Leaders
-        url: /en/stuff
+        url: /en/stuff/
     ru:
       - text: О нас
-        url: /ru/about
+        url: /ru/about/
       - text: Сертификаты
-        url: /ru/certificates
+        url: /ru/certificates/
       - text: Контакты
-        url: /ru/contact
+        url: /ru/contact/
       - text: Клиенты
-        url: /ru/customers
+        url: /ru/customers/
       - text: Новости
-        url: /ru/news
+        url: /ru/news/
       - text: Услуги
-        url: /ru/services
+        url: /ru/services/
       - text: Обслуживание
-        url: /ru/maintenance
+        url: /ru/maintenance/
       - text: Руководство
-        url: /ru/stuff
+        url: /ru/stuff/
   news:
     en:
       other_news: Other News

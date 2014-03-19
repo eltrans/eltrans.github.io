@@ -5,14 +5,14 @@
 	</head>	
 	<body>
           <div id="wrap">
+            <div class="container">
+                {% include header.html %}
+            </div>
               <div class="navbar navbar-default navbar-fixed-top">
                 <div class="container">
                 {% include nav.html %}
                 </div>
-              </div>
-            <div class="container">
-                {% include header.html %}
-            </div> 
+              </div> 
             <div class="container">   
       		<section id="main_content" class="inner">
 				<h1>{{ page.title }}</h1>

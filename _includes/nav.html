@@ -17,7 +17,7 @@
   {% if page.url == link.url %}
       <li class="active"><a href="{{ link.url }}">{{ link.text }}</a></li>
     {% else %}
-      <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+      <li class="false"><a href="{{ link.url }}">{{ link.text }}</a></li>
     {% endif %}
 {% endfor %}
 </div>

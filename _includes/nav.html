@@ -20,4 +20,9 @@
       <li class="false"><a href="{{ link.url }}">{{ link.text }}</a></li>
     {% endif %}
 {% endfor %}
+{% for locale in site.data.locales %}
+  {% if locale.short != page.lang %}
+    <li><a href="{{ page.url | replace_first: page.lang, locale.short }}">{{ locale.short }}</a></li>
+  {% endif %}
+{% endfor %}
 </div>
